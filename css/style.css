@@ -7,6 +7,9 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+a {
+    text-decoration: none !important;
+}
 .nav-link{
     font-family: 'Inter';
 font-style: normal;
@@ -163,6 +166,7 @@ line-height: 36px;
 letter-spacing: -0.1px;
 color: #0D0A19;
 margin-bottom: 50px;
+text-transform: capitalize;
   }
 
   .card-title {
@@ -233,3 +237,71 @@ color: #9A9EA7;
   .card {
     border: none !important;
   }
+
+
+  
+/* footer  area  */
+
+.FooterArea {
+    background-color: #f5f6f7;
+    padding: 10px 30px;
+    width: 100% !important;
+}
+.About {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: -0.1px;
+	color: #0d0a19;
+}
+.FooterText a {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 33px;
+	letter-spacing: -0.1px;
+	color: #9a9ea7 !important;
+}
+.Privacy {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: -0.1px;
+	color: #0d0a19;
+}
+.Term {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: -0.1px;
+	color: #0d0a19;
+	margin-left: 10px;
+}
+.reserved {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: -0.1px;
+	color: #9a9ea7;
+	margin-left: 10px;
+}
+.FooterTextArea {
+	display: flex;
+	background-color: #fff;
+	padding: 0px 10px;
+   width: 85%;
+   margin: auto;
+}
+.TermText {
+	margin-top: 10px;
+}
+
