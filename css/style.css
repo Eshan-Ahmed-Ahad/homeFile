@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Inter', sans-serif;
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+.nav-link{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+
+letter-spacing: -0.1px;
+color: #0D0A19 !important;
+margin-left: 20px;
+
+}
+.signIn {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7 !important;
+
+}
+.signIn img {
+    width: 30px;
+    padding : 5px 8px; 
+    height: 25px;
+    background: #F5F6F7;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: red;
+}
+.Section1 {
+    background-image: url("../img/Rectangle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.SectionHeading1 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+
+text-align: center;
+letter-spacing: -0.304762px;
+color: #FFFFFF;
+margin-top: 100px;
+}
+.Sectionp {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 27px;
+    /* or 135% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
