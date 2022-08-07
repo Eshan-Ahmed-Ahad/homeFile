@@ -153,3 +153,54 @@ padding:7px 15px !important;
     margin-bottom: 50px;
   }
   /* section 2 start  */
+
+  .trending {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+
+  }
+
+  .card-title {
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+
+
+color: #0D0A19;
+
+  }
+  .card-text{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+margin-top: -5px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+
+  }
+  .cardtext2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+    
+    letter-spacing: -0.1px;
+    
+    color: #9A9EA7;
+  }
+  .marginDOt {
+    margin-top: -5px;
+  }
