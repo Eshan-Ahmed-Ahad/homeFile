@@ -162,7 +162,7 @@ font-size: 28px;
 line-height: 36px;
 letter-spacing: -0.1px;
 color: #0D0A19;
-
+margin-bottom: 50px;
   }
 
   .card-title {
@@ -203,4 +203,33 @@ color: #9A9EA7;
   }
   .marginDOt {
     margin-top: -5px;
+  }
+  .price {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), #7963f0 !important;
+    color: #7963f0 !important;
+    border-radius: 8px !important;
+    font-weight: 500 !important;
+    font-family: 'Inter';
+    font-style: normal !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+    text-align: center !important;
+    letter-spacing: -0.1px !important;
+  }
+  .BuyBtn 
+  {
+    background-color: #f5f6f7 !important;
+    color: #9a9ea7 !important;
+    border-radius: 8px !important;
+    font-weight: 500 !important;
+    font-family: 'Inter';
+    font-style: normal !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+    text-align: center !important;
+    letter-spacing: -0.1px !important;
+  }
+
+  .card {
+    border: none !important;
   }
